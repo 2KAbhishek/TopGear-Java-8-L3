@@ -23,11 +23,9 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Java-8-L3 problems ☕✨</h2>
 
 </div>
-
-TopGear-Java-8-L3 contains solutions for all the problems TopGear-Java-8-L3-Assignments.
 
 ## Prerequisites
 
@@ -60,6 +58,9 @@ Hit the :star: button if you found this useful.
 
 <div align="center">
 
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
+  
 <a href="https://github.com/2KAbhishek/TopGear-Java-8-L3">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Java-8-L3">Website</a>
 
